@@ -8,6 +8,6 @@ This app takes two strings, and a list of integers for each, shifts one "forward
 (e.g shifting "abc" for the provided list of integers [1, 1, 2] forward, the result would be "bce").  
 
 ## Access
-https://still-anchorage-44207.herokuapp.com/
+https://still-anchorage-44207-7d3fca782823.herokuapp.com/  
 
 [![Build Status](https://app.travis-ci.com/SpeedyZooba/myDemoApp.svg?token=y5Mx5FwPKXXADfZwzfNg&branch=master)](https://app.travis-ci.com/SpeedyZooba/myDemoApp)
